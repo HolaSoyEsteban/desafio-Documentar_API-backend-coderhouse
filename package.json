@@ -1,7 +1,7 @@
 {
   "name": "desafio-documentar-api",
   "version": "1.0.0",
-  "description": "Desafio de documentación de API de Backend en Coderhouse",
+  "description": "Desafio de Documentación de API de Backend en Coderhouse... Terminado!",
   "main": "src/app.js",
   "type": "module",
   "scripts": {
